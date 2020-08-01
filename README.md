@@ -1,5 +1,5 @@
 # Engi's Kitchen
-A simple restaurant simulation role-playing game in C leanguage, created by:
+A simple restaurant simulation role-playing game in C language, created by:
 
 1. Hafizha Novianingrum (16517142)
 2. Dwi Nova Wijayanti (16517163)

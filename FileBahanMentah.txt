@@ -1,0 +1,13 @@
+Air | 500 | 5 
+Beras | 2000 | 10 
+Cabai | 1000 | 5 
+Daging Ayam | 5000 | 3 
+Daging Sapi | 7000 | 3 
+Gula | 500 | 10 
+Ikan | 5000 | 3 
+Jeruk | 3000 | 2 
+Kecap | 500 | 10 
+Kelapa | 3000 | 5 
+Lada | 500 | 5 
+Minyak | 500 | 10 
+Teh | 500 | 10 

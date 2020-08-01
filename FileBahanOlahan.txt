@@ -1,0 +1,7 @@
+Ayam Goreng | 7000 | 2 | Daging Ayam | Minyak 
+Es Batu | 1000 | 1 | Air 
+Ikan Goreng | 7000 | 2 | Ikan | Minyak 
+Nasi | 4000 | 2 | Air | Beras 
+Nasi Goreng | 8000 | 6 | Air | Beras | Cabai | Kecap | Lada | Minyak 
+Sambal | 3000 | 3 | Air | Cabai | Minyak 
+Serundeng | 4000 | 2 | Kelapa | Minyak 
